@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "Welcom eto first git project with eclipse IDE" );
+        System.out.println( "Hello World! with first eclipse git project..." );
+        System.out.println( "Welcome to first git project with eclipse IDE" );
     }
 }
